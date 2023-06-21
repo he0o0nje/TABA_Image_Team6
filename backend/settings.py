@@ -76,8 +76,8 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        # 'ENGINE': 'django.db.backends.sqlite3',
+        # 'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
@@ -122,3 +122,14 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# IP 주소 변수 설정
+MY_IP_ADDRESS = '172.30.1.26'
+CORS_ALLOWED_ORIGINS = [
+    f"http://{MY_IP_ADDRESS}:19006",
+    'http://localhost:19006',
+]
+
+CORS_ALLOW_ALL_ORIGINS = False # 이전의 설정을 무시하도록 False로 설정
+
+ALLOWED_HOSTS = ['*']
