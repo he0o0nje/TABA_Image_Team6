@@ -19,7 +19,7 @@ const idKeyReducer = idKeySlice.reducer;
 
 const ipAddressSlice = createSlice({
   name: "ipAddress",
-  initialState: "192.168.0.50", // 초기 IP 번호 값
+  initialState: "172.30.1.26", // 초기 IP 번호 값
   reducers: {
     setIpAddress: (state, action) => {
       return action.payload;
