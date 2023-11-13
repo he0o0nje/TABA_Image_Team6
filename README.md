@@ -5,7 +5,9 @@ Tibero DBMS
 Deep Learning Image-Recognition Project
 Triton (OCR, YOLO v5)
 
-https://www.figma.com/file/0ydSKd70eSbJJAaerQZqVO/TABA-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-Team6-AuViS?type=design&node-id=0%3A1&mode=design&t=c1oXUxJvl9E93zgC-1
+
+Figma Design => https://www.figma.com/file/0ydSKd70eSbJJAaerQZqVO/TABA-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-Team6-AuViS?type=design&node-id=0%3A1&mode=design&t=c1oXUxJvl9E93zgC-1
+
 ![시연](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/7181cda5-fb70-4b8f-8e55-6c2ab5e91f27)
 
 ![TABA Team6 AuViS 결과발표 pptx](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/39bf2538-fe79-445b-84b8-bda8fb697266)
