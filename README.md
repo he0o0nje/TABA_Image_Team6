@@ -9,13 +9,12 @@ Triton (OCR, YOLO v5)
 Figma Design => https://www.figma.com/file/0ydSKd70eSbJJAaerQZqVO/TABA-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-Team6-AuViS?type=design&node-id=0%3A1&mode=design&t=c1oXUxJvl9E93zgC-1
 
 ![시연](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/7181cda5-fb70-4b8f-8e55-6c2ab5e91f27)
-
-![TABA Team6 AuViS 결과발표 pptx](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/39bf2538-fe79-445b-84b8-bda8fb697266)
+![TABA Team6 AuViS 결과발표 pptx](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/c7c36448-89d4-4fa4-97b5-ca1c1f905755)
 ![TABA Team6 AuViS 결과발표 pptx (1)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/57cd5b1a-73ba-4bf3-9f5d-8c900325a1c4)
 ![TABA Team6 AuViS 결과발표 pptx (2)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/5908a484-8bc9-4a4a-becb-0ce11de90ff7)
 ![TABA Team6 AuViS 결과발표 pptx (3)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/a72f1cd1-9180-45d6-b689-5283d29ee363)
 ![TABA Team6 AuViS 결과발표 pptx (4)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/3702c33c-a52b-4f25-99da-4d1781f95f0d)
-![TABA Team6 AuViS 결과발표 pptx (5)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/b3a62a82-873d-4b02-8e7c-f4d6481b25b8)
+![TABA Team6 AuViS 결과발표 pptx (5)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/ffa981d5-aad6-4ec7-bcc5-53bbfe24cc1c)
 ![TABA Team6 AuViS 결과발표 pptx (6)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/a5fc34f3-629c-4327-a5d0-e43a02eb64b7)
 ![TABA Team6 AuViS 결과발표 pptx (7)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/9f80b91b-2714-4cad-897f-1c0a17aa7ce1)
 ![TABA Team6 AuViS 결과발표 pptx (8)](https://github.com/he0o0nje/TABA_Image_Team6/assets/105099960/cd250dc3-ab8b-404f-b6f9-a430f794a6c5)
